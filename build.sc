@@ -6,7 +6,7 @@ import $ivy.`com.lihaoyi::mill-contrib-bloop:$MILL_VERSION`
 
 import ammonite.ops._
 
-val thisPublishVersion = "0.1.0-SNAPSHOT"
+val thisPublishVersion = "0.1.0"
 val scalaVersions = List(
   "2.12.13",
   "2.13.4"
